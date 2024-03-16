@@ -2,3 +2,8 @@ line _1
 line_2
 line_3
 line_4
+
+line_4
+
+git add .
+git commit "conflit added"
